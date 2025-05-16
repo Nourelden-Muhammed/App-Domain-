@@ -4,7 +4,7 @@ from tensorflow.keras.models import load_model
 from typing import Optional, Tuple
 
 # Constants
-MODEL_PATH = "C:/Users/Nour/OneDrive/Desktop/Streamlit/Models/best_demand_forecast_model.keras"
+MODEL_PATH = "models/best_demand_forecast_model.keras"
 
 class DemandForecaster:
     """Handles model loading and prediction operations."""
