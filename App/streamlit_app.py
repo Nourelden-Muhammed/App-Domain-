@@ -209,7 +209,7 @@ def main():
     
     # Minimal footer
     st.markdown("---")
-    st.caption("© 2023 Sales Forecasting Suite | v2.0")
+    st.caption("Sales Forecasting Suite")
 
 if __name__ == "__main__":
     main()
